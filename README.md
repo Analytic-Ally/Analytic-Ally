@@ -1,4 +1,4 @@
-//[![MasterHead](https://media.licdn.com/dms/image/C4D16AQEW_7nQE8GPkA/profile-displaybackgroundimage-shrink_200_800/0/1645468258131?e=2147483647&v=beta&t=ttEOHbLzp3Y_5gsnqdeT9UapEVVLYpTESF6hXqJM2oQ)
+e=2147483647&v=beta&t=ttEOHbLzp3Y_5gsnqdeT9UapEVVLYpTESF6hXqJM2oQ)
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
