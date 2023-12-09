@@ -15,6 +15,7 @@
 - ⚡ Fun fact **Love To Travel**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/tusharg41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharg41" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tushar-gupta-3b29b5144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-gupta-3b29b5144/" height="30" width="40" /></a>
